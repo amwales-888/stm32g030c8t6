@@ -9,5 +9,11 @@ Simple breakout board for stm32g030c8t6
 - 1 Button with pulldown optionally connected to pin PB1 using jumper.
 - 1 Button connected to RESET pin, pulled high.
 
-![Board Top](Hardware/stm32g030c8t6/images/stm32g030c8t6-Top.png)
-![Board Bottom](Hardware/stm32g030c8t6/images/stm32g030c8t6-Bot.png)
+<table>
+  <tr>
+    <td> <img src="Hardware/stm32g030c8t6/images/stm32g030c8t6-Top.png"></td>
+  </tr>
+  <tr>
+    <td> <img src="Hardware/stm32g030c8t6/images/stm32g030c8t6-Bot.png"></td>
+  </tr>
+</table>
