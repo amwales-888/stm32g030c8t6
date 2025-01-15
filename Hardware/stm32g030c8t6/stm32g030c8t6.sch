@@ -13101,38 +13101,38 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <instance part="JP2" gate="G$1" x="273.05" y="41.91" smashed="yes">
 <attribute name="NAME" x="270.51" y="44.45" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="LED1" gate="G$1" x="184.15" y="95.25" smashed="yes">
-<attribute name="NAME" x="187.706" y="90.678" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="189.865" y="90.678" size="1.778" layer="96" rot="R90"/>
+<instance part="LED1" gate="G$1" x="157.48" y="5.08" smashed="yes">
+<attribute name="NAME" x="161.036" y="0.508" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="163.195" y="0.508" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND7" gate="1" x="184.15" y="87.63" smashed="yes">
-<attribute name="VALUE" x="181.61" y="85.09" size="1.778" layer="96"/>
+<instance part="GND7" gate="1" x="157.48" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="154.94" y="-12.7" size="1.778" layer="96"/>
 </instance>
-<instance part="R3" gate="G$1" x="184.15" y="105.41" smashed="yes" rot="R90">
-<attribute name="NAME" x="182.6514" y="101.6" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="187.452" y="101.6" size="1.778" layer="96" rot="R90"/>
+<instance part="R3" gate="G$1" x="157.48" y="15.24" smashed="yes" rot="R90">
+<attribute name="NAME" x="155.9814" y="11.43" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="160.782" y="11.43" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="JP4" gate="G$1" x="173.99" y="113.03" smashed="yes">
-<attribute name="NAME" x="171.45" y="115.57" size="1.778" layer="95" font="vector"/>
+<instance part="JP4" gate="G$1" x="149.86" y="22.86" smashed="yes">
+<attribute name="NAME" x="147.32" y="25.4" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="+3V8" gate="G$1" x="151.13" y="67.31" smashed="yes">
-<attribute name="VALUE" x="148.59" y="62.23" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V8" gate="G$1" x="142.24" y="116.84" smashed="yes">
+<attribute name="VALUE" x="139.7" y="111.76" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND8" gate="1" x="151.13" y="16.51" smashed="yes">
-<attribute name="VALUE" x="148.59" y="13.97" size="1.778" layer="96"/>
+<instance part="GND8" gate="1" x="142.24" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="139.7" y="-12.7" size="1.778" layer="96"/>
 </instance>
-<instance part="JP5" gate="G$1" x="146.05" y="34.29" smashed="yes">
-<attribute name="NAME" x="143.51" y="36.83" size="1.778" layer="95" font="vector"/>
+<instance part="JP5" gate="G$1" x="137.16" y="17.78" smashed="yes">
+<attribute name="NAME" x="134.62" y="20.32" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="S2" gate="G$1" x="151.13" y="49.53" smashed="yes" rot="R90">
-<attribute name="NAME" x="149.606" y="49.53" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<instance part="S2" gate="G$1" x="142.24" y="48.26" smashed="yes" rot="R90">
+<attribute name="NAME" x="140.716" y="48.26" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 </instance>
-<instance part="R2" gate="G$1" x="151.13" y="26.67" smashed="yes" rot="R90">
-<attribute name="NAME" x="149.6314" y="22.86" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="154.432" y="22.86" size="1.778" layer="96" rot="R90"/>
+<instance part="R2" gate="G$1" x="142.24" y="10.16" smashed="yes" rot="R90">
+<attribute name="NAME" x="140.7414" y="6.35" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="145.542" y="6.35" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND2" gate="1" x="-45.72" y="6.35" smashed="yes">
-<attribute name="VALUE" x="-48.26" y="3.81" size="1.778" layer="96"/>
+<instance part="GND2" gate="1" x="-45.72" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="-48.26" y="-12.7" size="1.778" layer="96"/>
 </instance>
 <instance part="R1" gate="G$1" x="-45.72" y="58.42" smashed="yes" rot="R90">
 <attribute name="NAME" x="-47.2186" y="54.61" size="1.778" layer="95" rot="R90"/>
@@ -13142,21 +13142,21 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <attribute name="NAME" x="-47.244" y="34.29" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="-43.942" y="34.29" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="+3V7" gate="G$1" x="-45.72" y="113.03" smashed="yes">
-<attribute name="VALUE" x="-48.26" y="107.95" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V7" gate="G$1" x="-45.72" y="116.84" smashed="yes">
+<attribute name="VALUE" x="-48.26" y="111.76" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="C1" gate="G$1" x="-20.32" y="15.24" smashed="yes">
 <attribute name="NAME" x="-20.701" y="10.414" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-18.161" y="15.494" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="JP3" gate="J$1" x="148.59" y="96.52" smashed="yes" rot="R180">
-<attribute name="NAME" x="151.13" y="90.932" size="1.778" layer="95" font="vector" rot="R180"/>
+<instance part="JP3" gate="J$1" x="116.84" y="106.68" smashed="yes" rot="R180">
+<attribute name="NAME" x="119.38" y="101.092" size="1.778" layer="95" font="vector" rot="R180"/>
 </instance>
-<instance part="GND9" gate="1" x="138.43" y="83.82" smashed="yes">
-<attribute name="VALUE" x="135.89" y="81.28" size="1.778" layer="96"/>
+<instance part="GND9" gate="1" x="106.68" y="-7.62" smashed="yes">
+<attribute name="VALUE" x="104.14" y="-10.16" size="1.778" layer="96"/>
 </instance>
-<instance part="+3V10" gate="G$1" x="138.43" y="114.3" smashed="yes">
-<attribute name="VALUE" x="135.89" y="109.22" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V10" gate="G$1" x="106.68" y="116.84" smashed="yes">
+<attribute name="VALUE" x="104.14" y="111.76" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="C2" gate="G$1" x="-25.4" y="15.24" smashed="yes">
 <attribute name="NAME" x="-25.781" y="10.414" size="1.778" layer="95" rot="R90"/>
@@ -13170,25 +13170,25 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <attribute name="NAME" x="-15.621" y="10.414" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-13.081" y="15.494" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="C6" gate="G$1" x="199.39" y="-17.78" smashed="yes">
-<attribute name="NAME" x="200.914" y="-17.399" size="1.778" layer="95"/>
-<attribute name="VALUE" x="200.914" y="-22.479" size="1.778" layer="96"/>
+<instance part="C6" gate="G$1" x="245.11" y="-17.78" smashed="yes">
+<attribute name="NAME" x="246.634" y="-17.399" size="1.778" layer="95"/>
+<attribute name="VALUE" x="246.634" y="-22.479" size="1.778" layer="96"/>
 </instance>
-<instance part="GND16" gate="1" x="199.39" y="-27.94" smashed="yes">
-<attribute name="VALUE" x="196.85" y="-30.48" size="1.778" layer="96"/>
+<instance part="GND16" gate="1" x="245.11" y="-27.94" smashed="yes">
+<attribute name="VALUE" x="242.57" y="-30.48" size="1.778" layer="96"/>
 </instance>
-<instance part="+3V11" gate="G$1" x="199.39" y="-5.08" smashed="yes">
-<attribute name="VALUE" x="196.85" y="-10.16" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V11" gate="G$1" x="245.11" y="-5.08" smashed="yes">
+<attribute name="VALUE" x="242.57" y="-10.16" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="+3V12" gate="G$1" x="135.89" y="-5.08" smashed="yes">
-<attribute name="VALUE" x="133.35" y="-10.16" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V12" gate="G$1" x="181.61" y="-5.08" smashed="yes">
+<attribute name="VALUE" x="179.07" y="-10.16" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND18" gate="1" x="135.89" y="-27.94" smashed="yes">
-<attribute name="VALUE" x="133.35" y="-30.48" size="1.778" layer="96"/>
+<instance part="GND18" gate="1" x="181.61" y="-27.94" smashed="yes">
+<attribute name="VALUE" x="179.07" y="-30.48" size="1.778" layer="96"/>
 </instance>
-<instance part="Y1" gate="G$1" x="140.97" y="-12.7" smashed="yes">
-<attribute name="NAME" x="144.78" y="-5.08" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="144.78" y="-7.62" size="1.778" layer="96" align="center-left"/>
+<instance part="Y1" gate="G$1" x="186.69" y="-12.7" smashed="yes">
+<attribute name="NAME" x="190.5" y="-5.08" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="190.5" y="-7.62" size="1.778" layer="96" align="center-left"/>
 </instance>
 <instance part="J2" gate="G$1" x="30.48" y="-5.334" smashed="yes" rot="R90">
 <attribute name="VALUE" x="63.246" y="-7.874" size="1.778" layer="96" font="vector" rot="R90"/>
@@ -13198,39 +13198,39 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <attribute name="VALUE" x="100.33" y="103.886" size="1.778" layer="96" font="vector" rot="R180"/>
 <attribute name="NAME" x="100.33" y="37.592" size="1.778" layer="95" font="vector" rot="R180"/>
 </instance>
-<instance part="+3V1" gate="G$1" x="-30.48" y="113.03" smashed="yes">
-<attribute name="VALUE" x="-33.02" y="107.95" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V1" gate="G$1" x="-30.48" y="116.84" smashed="yes">
+<attribute name="VALUE" x="-33.02" y="111.76" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="+3V3" gate="G$1" x="-25.4" y="113.03" smashed="yes">
-<attribute name="VALUE" x="-27.94" y="107.95" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V3" gate="G$1" x="-25.4" y="116.84" smashed="yes">
+<attribute name="VALUE" x="-27.94" y="111.76" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="+3V4" gate="G$1" x="-20.32" y="113.03" smashed="yes">
-<attribute name="VALUE" x="-22.86" y="107.95" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V4" gate="G$1" x="-20.32" y="116.84" smashed="yes">
+<attribute name="VALUE" x="-22.86" y="111.76" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND1" gate="1" x="-30.48" y="6.35" smashed="yes">
-<attribute name="VALUE" x="-33.02" y="3.81" size="1.778" layer="96"/>
+<instance part="GND1" gate="1" x="-30.48" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="-33.02" y="-12.7" size="1.778" layer="96"/>
 </instance>
-<instance part="GND3" gate="1" x="-25.4" y="6.35" smashed="yes">
-<attribute name="VALUE" x="-27.94" y="3.81" size="1.778" layer="96"/>
+<instance part="GND3" gate="1" x="-25.4" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="-27.94" y="-12.7" size="1.778" layer="96"/>
 </instance>
-<instance part="GND4" gate="1" x="-20.32" y="6.35" smashed="yes">
-<attribute name="VALUE" x="-22.86" y="3.81" size="1.778" layer="96"/>
+<instance part="GND4" gate="1" x="-20.32" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="-22.86" y="-12.7" size="1.778" layer="96"/>
 </instance>
-<instance part="GND5" gate="1" x="-15.24" y="6.35" smashed="yes">
-<attribute name="VALUE" x="-17.78" y="3.81" size="1.778" layer="96"/>
+<instance part="GND5" gate="1" x="-15.24" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="-17.78" y="-12.7" size="1.778" layer="96"/>
 </instance>
-<instance part="GND6" gate="1" x="-10.16" y="6.35" smashed="yes">
-<attribute name="VALUE" x="-12.7" y="3.81" size="1.778" layer="96"/>
+<instance part="GND6" gate="1" x="-10.16" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="-12.7" y="-12.7" size="1.778" layer="96"/>
 </instance>
-<instance part="JP6" gate="G$1" x="116.84" y="53.34" smashed="yes" rot="R90">
-<attribute name="NAME" x="114.3" y="50.8" size="1.778" layer="95" font="vector" rot="R90"/>
+<instance part="JP6" gate="G$1" x="129.54" y="48.26" smashed="yes" rot="R90">
+<attribute name="NAME" x="127" y="45.72" size="1.778" layer="95" font="vector" rot="R90"/>
 </instance>
-<instance part="+3V6" gate="G$1" x="116.84" y="73.66" smashed="yes">
-<attribute name="VALUE" x="114.3" y="68.58" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V6" gate="G$1" x="129.54" y="116.84" smashed="yes">
+<attribute name="VALUE" x="127" y="111.76" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R5" gate="G$1" x="116.84" y="64.77" smashed="yes" rot="R90">
-<attribute name="NAME" x="115.3414" y="60.96" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="120.142" y="60.96" size="1.778" layer="96" rot="R90"/>
+<instance part="R5" gate="G$1" x="129.54" y="64.77" smashed="yes" rot="R90">
+<attribute name="NAME" x="128.0414" y="60.96" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="132.842" y="60.96" size="1.778" layer="96" rot="R90"/>
 </instance>
 </instances>
 <busses>
@@ -13276,52 +13276,53 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <segment>
 <pinref part="LED1" gate="G$1" pin="C"/>
 <pinref part="GND7" gate="1" pin="GND"/>
+<wire x1="157.48" y1="-7.62" x2="157.48" y2="0" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND8" gate="1" pin="GND"/>
-<wire x1="151.13" y1="21.59" x2="151.13" y2="19.05" width="0.1524" layer="91"/>
+<wire x1="142.24" y1="5.08" x2="142.24" y2="-7.62" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<wire x1="-45.72" y1="29.21" x2="-45.72" y2="8.89" width="0.1524" layer="91"/>
+<wire x1="-45.72" y1="29.21" x2="-45.72" y2="-7.62" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 <pinref part="S1" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="JP3" gate="J$1" pin="3"/>
-<wire x1="140.97" y1="93.98" x2="138.43" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="138.43" y1="93.98" x2="138.43" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="104.14" x2="106.68" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="104.14" x2="106.68" y2="-5.08" width="0.1524" layer="91"/>
 <pinref part="GND9" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C6" gate="G$1" pin="2"/>
 <pinref part="GND16" gate="1" pin="GND"/>
-<wire x1="199.39" y1="-22.86" x2="199.39" y2="-25.4" width="0.1524" layer="91"/>
+<wire x1="245.11" y1="-22.86" x2="245.11" y2="-25.4" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="140.97" y1="-15.24" x2="135.89" y2="-15.24" width="0.1524" layer="91"/>
+<wire x1="186.69" y1="-15.24" x2="181.61" y2="-15.24" width="0.1524" layer="91"/>
 <pinref part="GND18" gate="1" pin="GND"/>
-<wire x1="135.89" y1="-15.24" x2="135.89" y2="-25.4" width="0.1524" layer="91"/>
+<wire x1="181.61" y1="-15.24" x2="181.61" y2="-25.4" width="0.1524" layer="91"/>
 <pinref part="Y1" gate="G$1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C3" gate="G$1" pin="2"/>
-<wire x1="-30.48" y1="10.16" x2="-30.48" y2="8.89" width="0.1524" layer="91"/>
+<wire x1="-30.48" y1="10.16" x2="-30.48" y2="-7.62" width="0.1524" layer="91"/>
 <pinref part="GND1" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C2" gate="G$1" pin="2"/>
-<wire x1="-25.4" y1="10.16" x2="-25.4" y2="8.89" width="0.1524" layer="91"/>
+<wire x1="-25.4" y1="10.16" x2="-25.4" y2="-7.62" width="0.1524" layer="91"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="-20.32" y1="10.16" x2="-20.32" y2="8.89" width="0.1524" layer="91"/>
+<wire x1="-20.32" y1="10.16" x2="-20.32" y2="-7.62" width="0.1524" layer="91"/>
 <pinref part="GND4" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C4" gate="G$1" pin="2"/>
-<wire x1="-15.24" y1="10.16" x2="-15.24" y2="8.89" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="10.16" x2="-15.24" y2="-7.62" width="0.1524" layer="91"/>
 <pinref part="GND5" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -13331,7 +13332,7 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <wire x1="-10.16" y1="53.34" x2="-10.16" y2="15.24" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="18"/>
 <wire x1="-10.16" y1="15.24" x2="-10.16" y2="12.7" width="0.1524" layer="91"/>
-<wire x1="-10.16" y1="12.7" x2="-10.16" y2="8.89" width="0.1524" layer="91"/>
+<wire x1="-10.16" y1="12.7" x2="-10.16" y2="-7.62" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="2.286" x2="15.24" y2="53.34" width="0.1524" layer="91"/>
 <junction x="15.24" y="53.34"/>
 <pinref part="GND6" gate="1" pin="GND"/>
@@ -13424,41 +13425,41 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <pinref part="+3V9" gate="G$1" pin="+3V3"/>
 </segment>
 <segment>
-<wire x1="151.13" y1="54.61" x2="151.13" y2="64.77" width="0.1524" layer="91"/>
+<wire x1="142.24" y1="53.34" x2="142.24" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="+3V8" gate="G$1" pin="+3V3"/>
 <pinref part="S2" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="-45.72" y1="63.5" x2="-45.72" y2="110.49" width="0.1524" layer="91"/>
+<wire x1="-45.72" y1="63.5" x2="-45.72" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="+3V7" gate="G$1" pin="+3V3"/>
 </segment>
 <segment>
 <pinref part="JP3" gate="J$1" pin="1"/>
-<wire x1="140.97" y1="99.06" x2="138.43" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="138.43" y1="99.06" x2="138.43" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="109.22" x2="106.68" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="109.22" x2="106.68" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="+3V10" gate="G$1" pin="+3V3"/>
 </segment>
 <segment>
-<wire x1="199.39" y1="-7.62" x2="199.39" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="245.11" y1="-7.62" x2="245.11" y2="-12.7" width="0.1524" layer="91"/>
 <pinref part="C6" gate="G$1" pin="1"/>
 <pinref part="+3V11" gate="G$1" pin="+3V3"/>
-<wire x1="199.39" y1="-12.7" x2="199.39" y2="-15.24" width="0.1524" layer="91"/>
-<wire x1="176.53" y1="-12.7" x2="199.39" y2="-12.7" width="0.1524" layer="91"/>
-<junction x="199.39" y="-12.7"/>
+<wire x1="245.11" y1="-12.7" x2="245.11" y2="-15.24" width="0.1524" layer="91"/>
+<wire x1="222.25" y1="-12.7" x2="245.11" y2="-12.7" width="0.1524" layer="91"/>
+<junction x="245.11" y="-12.7"/>
 <pinref part="Y1" gate="G$1" pin="VDD"/>
 </segment>
 <segment>
 <pinref part="Y1" gate="G$1" pin="OE/STBY/FS"/>
 <pinref part="+3V12" gate="G$1" pin="+3V3"/>
-<wire x1="140.97" y1="-12.7" x2="135.89" y2="-12.7" width="0.1524" layer="91"/>
-<wire x1="135.89" y1="-12.7" x2="135.89" y2="-7.62" width="0.1524" layer="91"/>
+<wire x1="186.69" y1="-12.7" x2="181.61" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="181.61" y1="-12.7" x2="181.61" y2="-7.62" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="VBAT"/>
 <wire x1="30.48" y1="60.96" x2="7.62" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="7.62" y1="60.96" x2="-30.48" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="-30.48" y1="60.96" x2="-30.48" y2="110.49" width="0.1524" layer="91"/>
+<wire x1="-30.48" y1="60.96" x2="-30.48" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="-30.48" y1="60.96" x2="-30.48" y2="17.78" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="1"/>
 <junction x="-30.48" y="60.96"/>
@@ -13470,7 +13471,7 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <segment>
 <pinref part="IC1" gate="G$1" pin="VREF+"/>
 <wire x1="10.16" y1="58.42" x2="-25.4" y2="58.42" width="0.1524" layer="91"/>
-<wire x1="-25.4" y1="58.42" x2="-25.4" y2="110.49" width="0.1524" layer="91"/>
+<wire x1="-25.4" y1="58.42" x2="-25.4" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="-25.4" y1="58.42" x2="-25.4" y2="17.78" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="1"/>
 <junction x="-25.4" y="58.42"/>
@@ -13485,7 +13486,7 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <wire x1="30.48" y1="55.88" x2="12.7" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="12.7" y1="55.88" x2="-15.24" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="-15.24" y1="55.88" x2="-20.32" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="-20.32" y1="55.88" x2="-20.32" y2="110.49" width="0.1524" layer="91"/>
+<wire x1="-20.32" y1="55.88" x2="-20.32" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="-20.32" y1="55.88" x2="-20.32" y2="17.78" width="0.1524" layer="91"/>
 <junction x="-20.32" y="55.88"/>
 <pinref part="C1" gate="G$1" pin="1"/>
@@ -13500,7 +13501,7 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <segment>
 <pinref part="R5" gate="G$1" pin="2"/>
 <pinref part="+3V6" gate="G$1" pin="+3V3"/>
-<wire x1="116.84" y1="69.85" x2="116.84" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="69.85" x2="129.54" y2="114.3" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="PB5" class="0">
@@ -13521,7 +13522,7 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 </net>
 <net name="N$2" class="1">
 <segment>
-<wire x1="184.15" y1="100.33" x2="184.15" y2="97.79" width="0.1524" layer="91"/>
+<wire x1="157.48" y1="10.16" x2="157.48" y2="7.62" width="0.1524" layer="91"/>
 <pinref part="LED1" gate="G$1" pin="A"/>
 <pinref part="R3" gate="G$1" pin="1"/>
 </segment>
@@ -13529,17 +13530,17 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <net name="N$3" class="0">
 <segment>
 <pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="184.15" y1="110.49" x2="184.15" y2="113.03" width="0.1524" layer="91"/>
-<wire x1="184.15" y1="113.03" x2="179.07" y2="113.03" width="0.1524" layer="91"/>
+<wire x1="157.48" y1="20.32" x2="157.48" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="157.48" y1="22.86" x2="154.94" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="JP4" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
-<wire x1="151.13" y1="44.45" x2="151.13" y2="34.29" width="0.1524" layer="91"/>
+<wire x1="142.24" y1="43.18" x2="142.24" y2="17.78" width="0.1524" layer="91"/>
 <pinref part="JP5" gate="G$1" pin="2"/>
-<wire x1="151.13" y1="34.29" x2="151.13" y2="31.75" width="0.1524" layer="91"/>
-<junction x="151.13" y="34.29"/>
+<wire x1="142.24" y1="17.78" x2="142.24" y2="15.24" width="0.1524" layer="91"/>
+<junction x="142.24" y="17.78"/>
 <pinref part="S2" gate="G$1" pin="1"/>
 <pinref part="R2" gate="G$1" pin="2"/>
 </segment>
@@ -13699,17 +13700,16 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <net name="PA14-BOOT0" class="0">
 <segment>
 <pinref part="JP3" gate="J$1" pin="2"/>
-<wire x1="140.97" y1="96.52" x2="132.08" y2="96.52" width="0.1524" layer="91"/>
-<label x="132.08" y="96.52" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
 <pinref part="IC1" gate="G$1" pin="PA14-BOOT0"/>
 <wire x1="81.28" y1="68.58" x2="86.36" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="86.36" y1="68.58" x2="86.36" y2="116.84" width="0.1524" layer="91"/>
-<label x="86.36" y="116.84" size="1.778" layer="95" xref="yes"/>
+<wire x1="86.36" y1="68.58" x2="86.36" y2="106.68" width="0.1524" layer="91"/>
+<label x="86.36" y="111.76" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="J3" gate="G$1" pin="13"/>
+<wire x1="86.36" y1="106.68" x2="86.36" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="68.58" x2="90.17" y2="68.58" width="0.1524" layer="91"/>
 <junction x="86.36" y="68.58"/>
+<wire x1="109.22" y1="106.68" x2="86.36" y2="106.68" width="0.1524" layer="91"/>
+<junction x="86.36" y="106.68"/>
 </segment>
 </net>
 <net name="PA10-U1RX" class="0">
@@ -13719,25 +13719,31 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <label x="280.67" y="41.91" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="PA10"/>
-<pinref part="J3" gate="G$1" pin="19"/>
-<wire x1="81.28" y1="58.42" x2="90.17" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="90.17" y1="53.34" x2="90.17" y2="33.02" width="0.1524" layer="91"/>
-<junction x="90.17" y="53.34"/>
-<wire x1="90.17" y1="33.02" x2="116.84" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="JP6" gate="G$1" pin="1"/>
-<wire x1="116.84" y1="48.26" x2="116.84" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="116.84" y1="45.72" x2="119.38" y2="45.72" width="0.1524" layer="91"/>
-<label x="119.38" y="45.72" size="1.778" layer="95" xref="yes"/>
-<wire x1="116.84" y1="33.02" x2="116.84" y2="45.72" width="0.1524" layer="91"/>
-<junction x="116.84" y="45.72"/>
+<wire x1="129.54" y1="43.18" x2="129.54" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="33.02" x2="157.48" y2="33.02" width="0.1524" layer="91"/>
+<label x="157.48" y="33.02" size="1.27" layer="95" xref="yes"/>
+<junction x="129.54" y="33.02"/>
+<pinref part="J3" gate="G$1" pin="19"/>
+<wire x1="88.9" y1="33.02" x2="129.54" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="53.34" x2="90.17" y2="53.34" width="0.1524" layer="91"/>
+<pinref part="IC1" gate="G$1" pin="PA10"/>
+<wire x1="81.28" y1="58.42" x2="83.82" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="58.42" x2="88.9" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="33.02" x2="88.9" y2="53.34" width="0.1524" layer="91"/>
+<junction x="88.9" y="53.34"/>
 </segment>
 </net>
 <net name="PA9-U1TX" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="PA9"/>
-<wire x1="81.28" y1="50.8" x2="90.17" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="50.8" x2="86.36" y2="50.8" width="0.1524" layer="91"/>
 <pinref part="J3" gate="G$1" pin="20"/>
+<wire x1="86.36" y1="50.8" x2="90.17" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="50.8" x2="86.36" y2="35.56" width="0.1524" layer="91"/>
+<junction x="86.36" y="50.8"/>
+<wire x1="86.36" y1="35.56" x2="157.48" y2="35.56" width="0.1524" layer="91"/>
+<label x="157.48" y="35.56" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="G$1" pin="2"/>
@@ -13748,12 +13754,12 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <net name="PF0-OSC_IN" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="PF0-OSC_IN"/>
-<label x="-66.04" y="50.8" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="30.48" y1="50.8" x2="-66.04" y2="50.8" width="0.1524" layer="91"/>
+<label x="-50.8" y="50.8" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="30.48" y1="50.8" x2="-50.8" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="176.53" y1="-15.24" x2="181.61" y2="-15.24" width="0.1524" layer="91"/>
-<label x="181.61" y="-15.24" size="1.27" layer="95" xref="yes"/>
+<wire x1="222.25" y1="-15.24" x2="227.33" y2="-15.24" width="0.1524" layer="91"/>
+<label x="227.33" y="-15.24" size="1.27" layer="95" xref="yes"/>
 <pinref part="Y1" gate="G$1" pin="OUT"/>
 </segment>
 </net>
@@ -13842,12 +13848,11 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <pinref part="J2" gate="G$1" pin="5"/>
 <wire x1="48.26" y1="2.286" x2="58.42" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="PB1"/>
-<wire x1="58.42" y1="12.7" x2="58.42" y2="25.4" width="0.1524" layer="91"/>
-</segment>
-<segment>
+<wire x1="58.42" y1="12.7" x2="58.42" y2="17.78" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="17.78" x2="58.42" y2="25.4" width="0.1524" layer="91"/>
+<junction x="58.42" y="17.78"/>
 <pinref part="JP5" gate="G$1" pin="1"/>
-<wire x1="140.97" y1="34.29" x2="133.35" y2="34.29" width="0.1524" layer="91"/>
-<label x="133.35" y="34.29" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="58.42" y1="17.78" x2="132.08" y2="17.78" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="B0" class="0">
@@ -13855,12 +13860,11 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <pinref part="J2" gate="G$1" pin="6"/>
 <wire x1="45.72" y1="2.286" x2="55.88" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="PB0"/>
-<wire x1="55.88" y1="12.7" x2="55.88" y2="25.4" width="0.1524" layer="91"/>
-</segment>
-<segment>
+<wire x1="55.88" y1="12.7" x2="55.88" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="22.86" x2="55.88" y2="25.4" width="0.1524" layer="91"/>
+<junction x="55.88" y="22.86"/>
 <pinref part="JP4" gate="G$1" pin="1"/>
-<wire x1="168.91" y1="113.03" x2="163.83" y2="113.03" width="0.1524" layer="91"/>
-<label x="163.83" y="113.03" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="144.78" y1="22.86" x2="55.88" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="A7" class="0">
@@ -13915,21 +13919,24 @@ Source: &lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultr
 <segment>
 <pinref part="JP6" gate="G$1" pin="2"/>
 <pinref part="R5" gate="G$1" pin="1"/>
-<wire x1="116.84" y1="58.42" x2="116.84" y2="59.69" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="53.34" x2="129.54" y2="59.69" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="PC7" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="PC7"/>
 <pinref part="J3" gate="G$1" pin="17"/>
-<wire x1="81.28" y1="55.88" x2="90.17" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="55.88" x2="83.82" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="55.88" x2="88.9" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="58.42" x2="90.17" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="PC6" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="PC6"/>
 <pinref part="J3" gate="G$1" pin="18"/>
-<wire x1="81.28" y1="53.34" x2="90.17" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="53.34" x2="83.82" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="53.34" x2="90.17" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

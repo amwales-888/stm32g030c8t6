@@ -23,23 +23,23 @@
 <layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
 <layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
 <layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
@@ -47,9 +47,9 @@
 <layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
 <layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
@@ -59,7 +59,7 @@
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
@@ -180,7 +180,7 @@
 <text x="27.178" y="5.842" size="0.6096" layer="25">SWD</text>
 <text x="29.718" y="5.842" size="0.6096" layer="25">SWC</text>
 <text x="34.798" y="15.494" size="0.6096" layer="25" rot="R180">3V3</text>
-<text x="34.798" y="12.954" size="0.6096" layer="25" rot="R180">BOOT</text>
+<text x="34.798" y="12.954" size="0.6096" layer="25" rot="R180">BOOT0</text>
 <text x="34.798" y="10.414" size="0.6096" layer="25" rot="R180">GND</text>
 <text x="49.022" y="18.669" size="0.6096" layer="25" rot="R180">3V3</text>
 <text x="51.562" y="18.669" size="0.6096" layer="25" rot="R180">3V3</text>
@@ -240,8 +240,8 @@
 <text x="6.731" y="4.191" size="0.6096" layer="25">B15</text>
 <text x="9.525" y="4.191" size="0.6096" layer="25">A8</text>
 <text x="12.192" y="4.191" size="0.6096" layer="25">A9</text>
-<text x="17.526" y="4.191" size="0.6096" layer="25">C6</text>
-<text x="20.066" y="4.191" size="0.6096" layer="25">C7</text>
+<text x="17.399" y="4.191" size="0.6096" layer="25">C6</text>
+<text x="19.939" y="4.191" size="0.6096" layer="25">C7</text>
 <text x="14.605" y="4.191" size="0.6096" layer="25">A10</text>
 <text x="21.971" y="4.191" size="0.6096" layer="25">A11</text>
 <text x="24.511" y="4.191" size="0.6096" layer="25">A12</text>
@@ -305,6 +305,8 @@
 <wire x1="36.83" y1="19.05" x2="39.37" y2="19.05" width="0.2032" layer="25"/>
 <wire x1="41.91" y1="19.05" x2="54.61" y2="19.05" width="0.2032" layer="25"/>
 <wire x1="35.433" y1="16.383" x2="35.433" y2="8.763" width="0.2032" layer="25"/>
+<text x="60.96" y="17.78" size="1.016" layer="26" rot="MR270">stm32g030c8t6 
+REVA</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
@@ -2222,7 +2224,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="MANUFACTURER_PART_NUMBER" value="STM32G030C8T6" x="-6.24879375" y="-7.4285375" size="1.778" layer="27" rot="R225" display="off"/>
 <attribute name="MOUSER_PART_NUMBER" value="511-STM32G030C8T6" x="-6.24879375" y="-7.4285375" size="1.778" layer="27" rot="R225" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G030C8T6?qs=uwxL4vQweFMKBA8wRRkiWA%3D%3D" x="-6.24879375" y="-7.4285375" size="1.778" layer="27" rot="R225" display="off"/>
-<attribute name="NAME" x="23.89405" y="11.194053125" size="1.27" layer="25" rot="R315" align="center"/>
+<attribute name="NAME" x="23.89405" y="11.194053125" size="0.6096" layer="25" rot="R315" align="center"/>
 <attribute name="VALUE" x="26.080128125" y="6.939875" size="1.27" layer="27" rot="R225" align="center"/>
 </element>
 <element name="IC2" library="AP2114HA-3.3TRG1" package="SOT230P700X180-4N" value="AP2114HA-3.3TRG1" x="49.53" y="11.43" smashed="yes" rot="MR180">
@@ -2234,7 +2236,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="MANUFACTURER_PART_NUMBER" value="AP2114HA-3.3TRG1" x="93.98" y="30.48" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MOUSER_PART_NUMBER" value="621-AP2114HA-3.3TRG1" x="93.98" y="30.48" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP2114HA-3.3TRG1?qs=M%2FOdCRO8QQ3KWhA9Gt6VoQ%3D%3D" x="93.98" y="30.48" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="NAME" x="49.53" y="8.89" size="1.27" layer="26" rot="MR180" align="center"/>
+<attribute name="NAME" x="49.403" y="9.398" size="0.6096" layer="26" rot="MR180" align="center"/>
 <attribute name="VALUE" x="50.8" y="7.62" size="1.27" layer="28" rot="MR180" align="center"/>
 </element>
 <element name="J1" library="SparkFun-Connectors" package="USB-MINIB" value="USB_MINI-B_SMT" x="57.15" y="11.43" smashed="yes" rot="R180">
@@ -2325,11 +2327,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="VALUE" x="62.23" y="4.572" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="JP6" library="SparkFun-Jumpers" package="SMT-JUMPER_2_NC_PASTE_SILK" package3d_urn="urn:adsk.eagle:package:39282/1" value="JUMPER-SMT_2_NC_PASTE_SILK" x="12.7" y="5.08" smashed="yes" rot="MR0">
-<attribute name="NAME" x="12.7" y="6.223" size="0.6096" layer="26" font="vector" ratio="20" rot="MR0" align="bottom-center"/>
+<attribute name="NAME" x="12.7" y="6.35" size="0.6096" layer="26" font="vector" ratio="10" rot="MR0" align="bottom-center"/>
 <attribute name="VALUE" x="12.7" y="3.937" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
 <element name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.8K" x="8.89" y="5.08" smashed="yes" rot="MR0">
-<attribute name="NAME" x="9.525" y="6.35" size="1.27" layer="26" rot="MR0"/>
 <attribute name="POPULARITY" value="86" x="8.89" y="5.08" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="8.89" y="5.08" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VALUE" x="9.525" y="2.54" size="1.27" layer="28" rot="MR0"/>
@@ -2909,25 +2910,26 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </signal>
 <signal name="PA10-U1RX">
 <contactref element="JP2" pad="2"/>
-<wire x1="20.574" y1="9.353340625" x2="20.574" y2="9.398" width="0.2032" layer="1"/>
 <via x="20.574" y="9.398" extent="1-16" drill="0.35"/>
 <wire x1="41.021" y1="11.303" x2="41.021" y2="9.906" width="0.2032" layer="16"/>
 <wire x1="41.021" y1="9.906" x2="38.1" y2="6.985" width="0.2032" layer="16"/>
 <via x="41.021" y="11.303" extent="1-16" drill="0.35"/>
 <wire x1="40.1066" y1="9.398" x2="40.1066" y2="10.388825" width="0.2032" layer="1"/>
 <wire x1="41.021" y1="11.303" x2="40.1066" y2="10.388825" width="0.2032" layer="1"/>
-<wire x1="20.828" y1="9.144" x2="20.574" y2="9.398" width="0.2032" layer="16"/>
-<wire x1="25.7912" y1="9.144" x2="20.828" y2="9.144" width="0.2032" layer="16"/>
+<wire x1="20.828" y1="9.144" x2="25.7912" y2="9.144" width="0.2032" layer="16"/>
 <wire x1="27.9502" y1="6.985" x2="25.7912" y2="9.144" width="0.2032" layer="16"/>
 <wire x1="38.1" y1="6.985" x2="27.9502" y2="6.985" width="0.2032" layer="16"/>
 <wire x1="15.24" y1="4.064" x2="20.574" y2="9.398" width="0.2032" layer="16"/>
+<contactref element="JP6" pad="1"/>
 <contactref element="IC1" pad="32"/>
 <contactref element="J3" pad="19"/>
-<contactref element="JP6" pad="1"/>
+<wire x1="15.24" y1="2.54" x2="15.24" y2="2.667" width="0.2032" layer="16"/>
+<wire x1="13.1064" y1="5.08" x2="13.1064" y2="4.8006" width="0.2032" layer="16"/>
+<wire x1="15.24" y1="2.667" x2="13.1064" y2="4.8006" width="0.2032" layer="16"/>
 <wire x1="15.24" y1="2.54" x2="15.24" y2="4.064" width="0.2032" layer="16"/>
-<wire x1="19.123609375" y1="7.90295" x2="20.574" y2="9.353340625" width="0.2032" layer="1"/>
-<wire x1="15.24" y1="2.54" x2="13.1064" y2="4.6736" width="0.2032" layer="16"/>
-<wire x1="13.1064" y1="4.6736" x2="13.1064" y2="5.08" width="0.2032" layer="16"/>
+<wire x1="20.574" y1="9.398" x2="19.123609375" y2="7.947609375" width="0.2032" layer="1"/>
+<wire x1="19.123609375" y1="7.947609375" x2="19.123609375" y2="7.90295" width="0.2032" layer="1"/>
+<wire x1="20.574" y1="9.398" x2="20.828" y2="9.144" width="0.2032" layer="16"/>
 </signal>
 <signal name="PA9-U1TX">
 <contactref element="IC1" pad="29"/>
@@ -3071,13 +3073,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="18.0467" y1="13.9573" x2="18.06295" y2="13.8963875" width="0.2032" layer="1"/>
 <wire x1="18.0467" y1="13.9573" x2="12.7" y2="19.304" width="0.2032" layer="1"/>
 <wire x1="12.7" y1="20.32" x2="12.7" y2="19.304" width="0.2032" layer="1"/>
-<contactref element="JP5" pad="1"/>
-<wire x1="12.319" y1="8.4836" x2="13.4366" y2="8.4836" width="0.2032" layer="1"/>
 <wire x1="13.4366" y1="8.4836" x2="16.383" y2="11.43" width="0.2032" layer="1"/>
 <wire x1="16.383" y1="11.43" x2="17.78" y2="11.43" width="0.2032" layer="1"/>
 <wire x1="17.78" y1="11.43" x2="18.923" y2="12.573" width="0.2032" layer="1"/>
 <wire x1="18.923" y1="12.573" x2="18.923" y2="13.081" width="0.2032" layer="1"/>
 <wire x1="18.923" y1="13.081" x2="18.0467" y2="13.9573" width="0.2032" layer="1"/>
+<contactref element="JP5" pad="1"/>
+<wire x1="12.319" y1="8.4836" x2="13.4366" y2="8.4836" width="0.2032" layer="1"/>
 </signal>
 <signal name="B0">
 <contactref element="J2" pad="6"/>
@@ -3186,6 +3188,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </board>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
